@@ -7,7 +7,7 @@ Apresentação em PDF: IntroducaoBIOINFO.pdf
 Aula de R: AulaPratica_1.R, AulaPratica_2.R e AulaPratica_3.R 
 https://posit.cloud/
 
-Aula de Python no Google Colab: AulaPratica_4.ipynb
+Aula de Python no Google Colab: SequenciamentoDNA.ipynb e AulaPratica_4.ipynb 
 https://colab.research.google.com/
 
 📧 Contato
